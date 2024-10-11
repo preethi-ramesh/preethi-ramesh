@@ -1,20 +1,3 @@
-- 👋 Hi, I’m @preethi-ramesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-preethi-ramesh/preethi-ramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-Based on your resume, here's a GitHub README profile description tailored for you:
-
----
 
 ### 👋 Hi, I’m @preethi-ramesh
 
@@ -26,6 +9,4 @@ Based on your resume, here's a GitHub README profile description tailored for yo
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new data visualization tools and am always on the lookout for innovative ways to present complex information effectively!
 
----
 
-Let me know if you'd like any further adjustments!
